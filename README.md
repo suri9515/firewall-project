@@ -74,7 +74,7 @@ This firewall is meant for **educational purposes only**. It is not production-r
 
 ## 🙋‍♂️ Author
 
-**Suri Puri**  
+**Allampati Venkata Surendra Reddy**  
 [GitHub Profile](https://github.com/suri9515)
 
 ---
